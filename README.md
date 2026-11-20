@@ -1,5 +1,7 @@
 EmbedKit_Vikram_Muley
 Ring Buffer (Circular Buffer) – Embedded C
+
+
 This project implements a fixed-size ring buffer for uint8_t data, commonly used in embedded systems (e.g., UART RX buffering).
 
 Features
